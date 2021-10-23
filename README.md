@@ -23,14 +23,14 @@ Run Test Case Study
 
 1.
 
-The first die comes up 3
-The second die comes up 3
-Your total roll is 6
+The first die comes up 2
+The second die comes up 6
+Your total roll is 8
 
 or
 
 2.
 
-The first die comes up 6
+The first die comes up 1
 The second die comes up 4
-Your total roll is 10
+Your total roll is 5
